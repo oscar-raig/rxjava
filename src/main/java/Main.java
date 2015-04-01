@@ -15,24 +15,5 @@ public class Main{
 
     // Begin Exemple 2
 
-    Exemple2.run();
-
-    // End Exemple 2
-
-    // Begin Exemple 3
-
-    Exemple3.run();
-
-    // End Exemple 3
-
-    Exemple4.run();
-
-    Exemple5.run();
-
-    Exemple6.run();
-
-    Exemple7.run();
-
-    Exemple8.run();
 	}
 }
