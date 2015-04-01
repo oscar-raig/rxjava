@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'idea'
+
+mainClassName="org.raig.Main"
+
+dependencies() {
+	compile 'io.reactivex:rxjava:1.0.0'
+}
+
+repositories () {
+	
+	mavenCentral()
+
+}
