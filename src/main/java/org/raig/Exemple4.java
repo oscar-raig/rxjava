@@ -20,7 +20,16 @@ public class Exemple4 {
       }
     };
 
+    Action1<String> onNextAction2 = new Action1<String>() {
+      @Override
+      public void call(String s) {
+        System.out.println(s + "Action2");
+      }
+    };
+
     myObservable.subscribe(onNextAction);
+    myObservable.subscribe(onNextAction2);
+
     System.out.println("---End 4");
   }
 }

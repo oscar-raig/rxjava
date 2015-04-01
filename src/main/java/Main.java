@@ -31,5 +31,8 @@ public class Main{
 
     Exemple6.run();
 
+    Exemple7.run();
+
+    Exemple8.run();
 	}
 }
