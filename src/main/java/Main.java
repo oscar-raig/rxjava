@@ -8,21 +8,9 @@ public class Main{
 
 		// Begin Exemple 1
 
-    Part2Exemple1.run();
+    Part3Exemple1.run();
 
     // End Exemple   1
 
-
-    // Begin Exemple 2
-
-    Part2Exemple2.run();
-
-    // Begin Exemple 3
-
-    Part2Exemple3.run();
-
-    // Begin Exemple 4
-
-    Part2Exemple4.run();
 	}
 }
